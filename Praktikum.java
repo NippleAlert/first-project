@@ -1,3 +1,4 @@
 public class Praktikum {
-    Praktikum praktikum = new Praktikum();
+  public static void main(String[] args) {;
+}
 }
